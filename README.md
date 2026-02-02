@@ -1,17 +1,17 @@
 ## 🤖 tg-botman
 
-**tg-botman** è un progetto personale basato su **Laravel** e **Filament**, nato con l’obiettivo di gestire bot Telegram attraverso un pannello web semplice e centralizzato.
+**tg-botman** is a personal project based on **Laravel** and **Filament**, created with the goal of managing Telegram bots through a simple, centralized web panel.
 
-Il progetto non è attualmente rivolto a un target specifico: nasce come strumento personale per sperimentare, organizzare e amministrare bot Telegram da un’unica interfaccia, lasciando aperta la possibilità di evoluzioni future.
+The project is not currently aimed at a specific target audience: it was conceived as a personal tool to experiment with, organize, and manage Telegram bots from a single interface, while leaving room for possible future evolutions.
 
-### 🎯 Obiettivo
+### 🎯 Goal
 
-Fornire un pannello web che permetta di:
-- gestire bot Telegram in modo ordinato,
-- centralizzare configurazioni e informazioni,
-- semplificare lo sviluppo e la manutenzione nel tempo.
+To provide a web panel that allows you to:
+- manage Telegram bots in an organized way,
+- centralize configurations and information,
+- simplify development and maintenance over time.
 
-Le funzionalità sono in fase di progettazione e verranno definite progressivamente in base alle esigenze.
+The features are still in the design phase and will be defined progressively based on needs.
 
 ### 🛠️ Stack
 
@@ -19,11 +19,11 @@ Le funzionalità sono in fase di progettazione e verranno definite progressivame
 - **Filament**
 - **Telegram Bot API**
 
-### 📌 Stato del progetto
+### 📌 Project status
 
-🚧 In sviluppo / fase di progettazione  
-Le caratteristiche definitive non sono ancora stabilite.
+🚧 In development / design phase  
+The final features have not yet been defined.
 
 ---
 
-> Progetto sviluppato principalmente per uso personale.
+> Project developed primarily for personal use.
